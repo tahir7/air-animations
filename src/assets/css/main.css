@@ -1,0 +1,47 @@
+.body {
+    font-family: 'Tangerine', serif;
+    font-size: 28px;
+
+   
+}
+
+
+.header-bar {
+    height: 150px;
+    background-color: green;
+
+    font-family: 'Fredoka One', cursive;
+    
+}
+
+.main-class {
+    margin-left: 10%;
+    margin-right: 10%;  
+   
+
+    width: 80vw;
+    height: 100vh; 
+
+    font-family: 'Fredoka One', cursive;
+
+    
+}
+
+.video-container {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    
+}
+
+ .video-box {
+
+    height: 325px;
+    width: 435px;
+    align-content: center;
+    
+    background-color: green;
+    border: black 2px solid;
+    margin: 5px auto;
+    padding: 17px;
+} 
